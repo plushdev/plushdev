@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "login": "plushdev",
+  "seed": "#FF5CA8",
+  "seedFromAvatar": false,
+  "scheme": "fidelity",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "projects",
+    "streak"
+  ],
+  "hero": {
+    "greeting": "",
+    "name": "PlushDev",
+    "subtitle": "Learning, building, and exploring :3",
+    "typing": false,
+    "avatarShape": "cookie",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Germany"
+      },
+      {
+        "icon": "code",
+        "label": "Python  · Web"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "17 years old | Cute fox dev :3"
+      },
+      {
+        "icon": "translate",
+        "label": "Speaking English, Russian, Ukrainian and a little bit of Deutsch :3"
+      },
+      {
+        "icon": "favorite",
+        "label": "Love foxes, pink and gaming :3"
+      },
+      {
+        "icon": "mobile",
+        "label": "Main phone is iPhone 12 Pro 256 GB Graphite :3"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:vscodium",
+            "label": "VSCodium"
+          },
+          {
+            "icon": "brand:krita",
+            "label": "Krita"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "pixel-garden",
+      "tiny-weather",
+      "echo-bot",
+      "dotfiles"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
